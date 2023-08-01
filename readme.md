@@ -1,7 +1,7 @@
 ## 🍲 Projeto Food Delivery
 
 <div align="center">
-<img alt="Capa do projeto" src="public/food.gif" width="60%">
+<img alt="Capa do projeto" src="public/food.gif" width="100%">
 </div>
 
 ## 💻 Projeto
