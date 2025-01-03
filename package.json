@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.1.1",
+    "coffee-delivery": "file:",
     "immer": "^10.0.2",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

@@ -5,15 +5,15 @@ import { useFormContext } from "react-hook-form";
 import { RegularText } from "../../../../components/Typography";
 
 export const paymentMethods = {
-  credit: {
+  Crédito: {
     label: "Cartão de crédito",
     icon: <CreditCard size={16} />,
   },
-  debit: {
+  Débito: {
     label: "Cartão de débito",
     icon: <Bank size={16} />,
   },
-  money: {
+  Dinheiro: {
     label: "Dinheiro",
     icon: <Money size={16} />,
   },
